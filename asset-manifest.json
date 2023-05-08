@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bill_Game/static/css/main.c1174d18.css",
+    "main.js": "/Bill_Game/static/js/main.541fd92d.js",
+    "index.html": "/Bill_Game/index.html",
+    "main.c1174d18.css.map": "/Bill_Game/static/css/main.c1174d18.css.map",
+    "main.541fd92d.js.map": "/Bill_Game/static/js/main.541fd92d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1174d18.css",
+    "static/js/main.541fd92d.js"
+  ]
+}
